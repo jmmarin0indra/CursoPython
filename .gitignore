@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+CursoPython/Lib/
+CursoPython/Scripts/
+CursoPython/__pycache__/
+CursoPython/build/
+CursoPython/clases/
+CursoPython/dist/
+CursoPython/ejemplo_python.py
+CursoPython/etc/
+CursoPython/get-pip.py
+CursoPython/hola.spec
+CursoPython/pyvenv.cfg
+CursoPython/share/
+README.md
